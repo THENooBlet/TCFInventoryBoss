@@ -1,6 +1,6 @@
 Easy to use Tool to manage your TCF Inventory.
 
-As a note be be mindfull of what you are doing as we dont take any responibility for your actions with this tool .
+As a note be mindfull of what you are doing as we dont take any responibility for your actions with this tool .
 Always close your game before using the Tool 
 there is a native backup solution and a restore
 
