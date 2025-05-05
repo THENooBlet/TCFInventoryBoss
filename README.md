@@ -1,7 +1,8 @@
 Easy to use Tool to manage your TCF Inventory.
 
 As a note be be mindfull of what you are doing as we dont take any responibility for your actions with this tool .
-
+Always close your game before using the Tool 
+there is a native backup solution and a restore
 
 ![TCFIB1](https://github.com/user-attachments/assets/4efa2db5-4064-40f6-8f3b-27337eeaad43)
 ![TCFIB2](https://github.com/user-attachments/assets/f02d6dc3-a6b0-44c4-98ee-bc7c96cea219)
