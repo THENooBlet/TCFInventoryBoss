@@ -1,4 +1,7 @@
 Easy to use Tool to manage your TCF Inventory.
+Change your ingame Balances 
+
+And soon saving inventory and mission progress to share to other players + option to fully wipe and start over
 
 As a note be mindfull of what you are doing as we dont take any responibility for your actions with this tool .
 Always close your game before using the Tool 
