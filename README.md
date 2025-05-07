@@ -40,6 +40,18 @@
 
 ---
 
+## 🛡️ Antivirus Warning
+
+Some antivirus programs may flag this application with a **false positive** for a virus or trojan.  
+This is common for unsigned desktop applications that modify files.
+
+> 🧩 **TCF Inventory Boss does not contain any malicious code.**  
+> The full source code for the built-in updater is included in the project as:  
+> `Updater.cs` and the method that calls it in your main form.  
+> Feel free to inspect .
+
+---
+
 ## 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/829e10df-3c9f-42ea-bb99-68bbac3e784d)
