@@ -18,15 +18,18 @@
 - ♻️ **Native Backup & Restore System**  
   Back up your current Inventory and restore it if something goes wrong.
 
----
-
-## 🌱 Coming Soon
-
 - 🧹 **Wipe Progress**  
   Reset all progress and inventory to start from scratch.
 
 - 💾 **Save & Share Progress**  
-  Export and import inventory and mission progress between players.
+  Export and import Progress to share between players.
+
+---
+
+## 🌱 Coming Soon
+
+- 🎯 **Mission Controller**  
+  Add or remove missions from the completed list to fine-tune your progression.
 
 ---
 
@@ -60,6 +63,4 @@ Grab the latest version from the [Releases page »](https://github.com/THENooBle
 
 ---
 
-Made with ❤️ by **NooBlet**  
-
-
+Made with ❤️ by **NooBlet**
