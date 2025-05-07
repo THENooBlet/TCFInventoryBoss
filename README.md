@@ -16,7 +16,7 @@
   Directly modify your in-game currency balance.
 
 - ♻️ **Native Backup & Restore System**  
-  Back up your current save and restore it if something goes wrong.
+  Back up your current Inventory and restore it if something goes wrong.
 
 ---
 
