@@ -52,6 +52,12 @@ This is common for unsigned desktop applications that modify files.
 
 ---
 
+## 🎥 Tutorial Video
+
+Check out our [tutorial video](https://www.youtube.com/watch?v=kUnIEsos24k) to get started with using **TCF Inventory Boss**.
+
+---
+
 ## 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/829e10df-3c9f-42ea-bb99-68bbac3e784d)
@@ -61,9 +67,6 @@ This is common for unsigned desktop applications that modify files.
 ![image](https://github.com/user-attachments/assets/c989edc4-0e9a-4f9e-b148-7c662002d43b)
 ![image](https://github.com/user-attachments/assets/33c09543-b46d-4e68-809d-cff9a8332157)
 ![image](https://github.com/user-attachments/assets/329b8a63-d8b4-4f62-bcc5-20682fcba3e0)
-
-
-
 
 ---
 
