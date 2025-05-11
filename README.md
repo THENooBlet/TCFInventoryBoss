@@ -21,8 +21,8 @@
 - 🧹 **Wipe Progress**  
   Reset all progress and inventory to start from scratch.
 
-- 💾 **Save & Share Progress**  
-  Export and import Progress to share between players.
+- 💾 **Unlock Progress**  
+  Unlock some Things InGame.
 
 ---
 
