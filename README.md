@@ -2,6 +2,7 @@
 
 **Easy-to-use desktop tool for managing your TCF game inventory with precision and control.**
 
+** Source Code will only be released here once im completed with this project**
 ---
 
 ## 🚀 Key Features
