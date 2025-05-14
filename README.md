@@ -56,7 +56,7 @@ This is common for unsigned desktop applications that modify files.
 
 ## 🎥 Tutorial Video
 
-Check out our [tutorial video](https://www.youtube.com/watch?v=kUnIEsos24k) to get started with using **TCF Inventory Boss**.
+Check out our [tutorial video](https://youtu.be/UvjAXNL9YsM) to get started with using **TCF Inventory Boss**.
 
 ---
 
