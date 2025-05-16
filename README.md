@@ -49,7 +49,7 @@ This is common for unsigned desktop applications that modify files.
 
 > 🧩 **TCF Inventory Boss does not contain any malicious code.**  
 > The full source code for the built-in updater is included in the project as:  
-> `Updater.cs` and the method that calls it in your main form.  
+> `Updater.cs` and the method that calls it from your main form.  
 > Feel free to inspect .
 
 ---
