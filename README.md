@@ -1,3 +1,6 @@
+
+![20250519_1837_TCF Inventory Manager_simple_compose_01jvmpctagexkt089js6j39qd7](https://github.com/user-attachments/assets/60e55bf4-fb5a-41ff-a593-fe5206ff50b0)
+
 # 🔧 TCF Inventory Boss
 
 **Easy-to-use desktop tool for managing your TCF game inventory with precision and control.**
