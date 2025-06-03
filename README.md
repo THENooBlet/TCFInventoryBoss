@@ -3,6 +3,10 @@
 
 # 🔧 TCF Inventory Boss
 
+This will only be availible to ppl that Reconize my work and apriciate it and noone else.
+domo was availible to all . but now it will remain blocked 
+seeing that everyone called it a paywall this will only be availible to ppl that needs my help 
+
 **Easy-to-use desktop tool for managing your TCF game inventory with precision and control.**
 
 **Source Code will only be released here once im completed with this project**
