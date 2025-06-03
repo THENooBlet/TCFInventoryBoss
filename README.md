@@ -3,9 +3,7 @@
 
 # 🔧 TCF Inventory Boss
 
-This will only be availible to ppl that Reconize my work and apriciate it and noone else.
-domo was availible to all . but now it will remain blocked 
-seeing that everyone called it a paywall this will only be availible to ppl that needs my help 
+"This will only be available to people who recognize and appreciate my work — no one else. Domo was available to everyone, but now it will remain blocked since it was labeled a paywall. From now on, this will only be accessible to those who genuinely need my help."
 
 **Easy-to-use desktop tool for managing your TCF game inventory with precision and control.**
 
